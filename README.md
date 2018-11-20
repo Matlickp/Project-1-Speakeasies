@@ -30,9 +30,6 @@ I realize some of these could probably be consolidated but mworking with the gma
 9. Project 1 Presentation-Speakeasies.pptx
 	This is the presentation that was given in the class
 
-10. Config.py
-	This is just the two api keys
-
-11. The rest are just the output PNG files that were used in the power point
+10. The rest are just the output PNG files that were used in the power point
 
 
